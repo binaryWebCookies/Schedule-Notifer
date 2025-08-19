@@ -1,5 +1,5 @@
 # Schedule Notifer
-An app that automatically sends you a notification 15 minutes before your next subject starts. No need to constantly check your phone or laptop — you’ll get a timely reminder straight to your notifications so you’re always prepared.
+An app that automatically sends you a notification 15 minutes before your next subject starts. No need to constantly check your phone or laptop — you’ll get a timely reminder straight to your notifications so you’re always prepared. Only works if your computer is on, sleep mode also counts as on. 
 
 ## 🌟 Features
   * Customisable Schedule: Easily update your classes and times in the Python script.
